@@ -7,6 +7,12 @@
 | 04    | Delete a file       | rm    | del     |
 | 05    | Move a file       | mv | move     |
 | 06    | Copy a file       | cp | copy     |
-| 07    | Current Directory | pwd | chdir     |
-| 08    | Change Directory  | cd | cd     |
-| 09    | Make a Directory  | mkdir | md     |
+| 07    | Print Content of file  | cat | type     |
+| 08    | Write content to a file  | vi or vim | edit |
+| 09    | Compare Content of file  | diff | fc     |
+| 10    | Current Directory | pwd | chdir     |
+| 11    | Change Directory  | cd | cd     |
+| 12    | Make a Directory  | mkdir | md     |
+| 13    | Delete a Directory  | rmdir or rm -rf | rmdir|
+| 14    | Print message on the screen | echo | echo |
+| 15    | To exit terminal | exit | exit |
