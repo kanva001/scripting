@@ -17,4 +17,5 @@
 | 13    | Delete a Directory  | rmdir or rm -rf | rmdir|
 | 14    | Print message on the screen | echo | echo |
 | 15    | To exit terminal | exit | exit |
+|       | :---: |
 | 000    | General Commands |
