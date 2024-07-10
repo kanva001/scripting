@@ -18,3 +18,4 @@
 | 14    | Print message on the screen | echo | echo |
 | 15    | To exit terminal | exit | exit |
 | 000    | General Commands |
+| 15    | To exit terminal | exit | exit |
